@@ -1,9 +1,7 @@
-import Head from 'next/head'
-import Image from 'next/image'
 import { Inter } from 'next/font/google'
-import styles from '@/styles/Home.module.css'
 import Cabecalho from '@/components/Cabecalho'
 import Postagem1 from '@/components/Postagem1'
+import Postagem2 from '@/components/Postagem2'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -12,6 +10,7 @@ export default function Home() {
     <>
      <Cabecalho />
      <Postagem1 />
+     <Postagem2 />
     </>
   )
 }
