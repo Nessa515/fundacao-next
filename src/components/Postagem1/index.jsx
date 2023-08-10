@@ -2,7 +2,7 @@ import styles from './styles.module.css';
 
 const Postagem1 = () => {
     return(
-        <body>
+        <div>
             <div className={styles.img}>
                 <img src="news.png" alt="News" />
             </div>
@@ -20,7 +20,7 @@ const Postagem1 = () => {
                 <hr/>
                 <hr/>
             </div>
-        </body>
+        </div>
     )
 }
 

@@ -2,7 +2,7 @@ import styles from './styles.module.css';
 
 const Postagem2 = () => {
     return(
-        <body className={styles.postagem}>
+        <div className={styles.postagem}>
             <div>
                 <img src="Artesanto.png" alt="Artesanato" />
                 <h1>Feira agropecuária: Iª noite de rodeio</h1>
@@ -29,7 +29,7 @@ const Postagem2 = () => {
                 Arcu cursus euismod quis viverra nibh cras.</p>
                 <p className={styles.data}>20/05/2021</p>
             </div>
-        </body>
+        </div>
     )
 }
 
