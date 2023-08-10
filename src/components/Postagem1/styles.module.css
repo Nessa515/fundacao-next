@@ -1,0 +1,40 @@
+.img{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.postagem1 h1{
+    font-size: 22px;
+    font-family: sans-serif, 'Quicksand';
+    margin-left: 355px;
+}
+
+.postagem1 p{
+    color: #333333;
+    font-size: 14px;
+    font-family: sans-serif, 'Quicksand';
+    margin-left: 355px;
+    margin-top: 20px;
+    width: 997px;
+}
+
+.postagem1 hr {
+    color: black;
+    width: 30px;
+}
+
+.linha{
+    display: flex;
+    margin-left: 305px;
+    margin-top: 30px;
+}
+
+.linha hr{
+    border: none;
+    border-radius: 10px;
+    background-color: #C4C4C4;
+    width: 263px;
+    height: 6px;
+    margin-left: 50px;
+}
+

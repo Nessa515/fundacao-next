@@ -1,0 +1,25 @@
+.cabecalho{
+    background-color: #F1F1F1;
+    max-width: 100%;
+    height: 120px;
+}
+
+.cabecalho img{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.cabecalho nav{
+    display: flex;
+    margin-top: -60px;
+}
+
+.cabecalho li{
+    position: relative;
+    left: 1500px;
+    float: left;
+    margin-right: 80px;
+    list-style: none;
+    font-size: 16px;
+    font-family: sans-serif, 'Quicksand';
+}
