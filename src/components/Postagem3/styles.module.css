@@ -1,0 +1,32 @@
+.postagem3 h1{
+    font-size: 40px;
+    font-family: sans-serif, 'Josefin Sans';
+    color: #333333;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.postagem3 p{
+    font-size: 24px;
+    font-family: sans-serif, 'Montserrat';
+    text-align: justify;
+    color: #333333;
+    margin-left: 150px;
+    margin-top: 30px;
+    width: 1200px;
+}
+
+.postagem3 img{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.imagens{
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+
+.imagens img{
+    padding-top: 20px;
+}
