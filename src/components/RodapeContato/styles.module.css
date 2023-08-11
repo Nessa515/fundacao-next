@@ -1,0 +1,78 @@
+.rodape{
+    margin-top: 150px;
+    max-width: 100%;
+    height: 500px;
+    background-color: #253237;
+}
+
+.contato{
+    padding-top: 50px;
+
+}
+
+.contato .titulo{
+    margin-left: 105px;
+    color: #9DB4C0;
+    font-size: 18px;
+    font-family: sans-serif, 'Josefin Sans';
+}
+
+.contato img{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.contato p{
+    position: relative;
+    margin-left: 145px;
+    margin-top: -25px;
+    font-size: 14px;
+    font-family: sans-serif, 'Montserrat';
+    color: white;
+}
+
+
+.social{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.social h3{
+    font-size: 18px;
+    font-family: sans-serif, 'Josefin Sans';
+    color: #9DB4C0;
+}
+
+.social img{
+    margin-right: 12px;
+    margin-top: 20px;
+}
+
+
+.logo .titulo{
+    position: relative;
+    float: right;
+    margin-top: -305px;
+    padding-right: 585px;
+    font-size: 18px;
+    font-family: sans-serif, 'Josefin Sans';
+    color: #9DB4C0;
+}
+
+.logo .ifro{
+    float: right;
+    margin-right: 410px;
+    margin-top: -250px;
+}
+
+.logo .fslab{
+    float: right;
+    margin-top: -250px;
+    margin-right: 600px;
+}
+
+.logo .vilhena{
+    float: right;
+    margin-top: -90px;
+    margin-right: 515px;
+}
