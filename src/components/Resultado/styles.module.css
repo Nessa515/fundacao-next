@@ -1,0 +1,40 @@
+.resultado h3{
+    margin-top: 50px;
+    margin-left: 350px;
+    font-size: 22px;
+    font-family: sans-serif, 'Josefin Sans';
+}
+
+.busca input{
+    width: 997px;
+    height: 37px;
+    margin-left: 350px;
+    margin-top: 50px;
+    border-radius: 5px 0px 0px 5px;
+    border-color: #333333;
+}
+
+.botao{
+    background-color: black;
+    width: 203px;
+    height: 37px;
+    position: relative;
+    float: right;
+    margin-right: 370px;
+    margin-top: -37px;
+}
+
+.botao p{
+    font-size: 14px;
+    font-family: sans-serif, 'Montserrat';
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+}
+
+.principal .r{
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size: 12px;
+    font-family: sans-serif, 'Montserrat';
+}

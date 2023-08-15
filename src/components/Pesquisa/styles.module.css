@@ -1,0 +1,51 @@
+.pesquisa{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.pesquisa img{
+    width: 285px;
+    height: 180px;
+    margin-bottom: 50px;
+}
+
+.principal hr{
+    width: 1200px;
+    height: 3px;
+    margin-top: 10px;
+    margin-left: 350px;
+    background-color: black;
+}
+
+.texto{
+    margin-left: 20px;
+}
+
+.texto .legenda{
+    font-size: 12px;
+    font-family: sans-serif, 'Montserrat';
+}
+
+.texto .titulo{
+    font-size: 18px;
+    font-family: sans-serif, 'Josefin Sans';
+    margin-top: 20px;
+    color: #333333;
+}
+
+.texto .description{
+    font-size: 14px;
+    font-family: sans-serif, 'Josefin Sans';
+    color: #333333;
+    margin-top: 20px;
+    width: 894px;
+}
+
+.texto .data{
+    font-size: 14px;
+    font-family: sans-serif, 'Josefin Sans';
+    color: #333333;
+    margin-top: 40px;
+}
+
