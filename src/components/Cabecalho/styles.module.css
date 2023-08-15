@@ -5,7 +5,7 @@
 }
 
 .cabecalho img{
-    margin-left: 120px;
+    margin-left: 350px;
     margin-top: 20px;
 }
 
@@ -16,7 +16,7 @@
 
 .cabecalho li{
     position: relative;
-    left: 1100px;
+    left: 1360px;
     float: left;
     margin-right: 80px;
     list-style: none;
